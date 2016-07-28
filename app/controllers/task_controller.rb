@@ -106,6 +106,6 @@ def town
     render :json => data
 end
 def test01
-    render text: 'git 백지환 성공적'
+    render text: 'git 백지환 성공적 2'
 end
 end
