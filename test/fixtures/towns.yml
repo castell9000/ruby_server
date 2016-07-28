@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  idTown: 1
+  address: MyString
+  townName: MyString
+  townFact: MyString
+  townGood: MyString
+  townBad: MyString
+
+two:
+  idTown: 1
+  address: MyString
+  townName: MyString
+  townFact: MyString
+  townGood: MyString
+  townBad: MyString
