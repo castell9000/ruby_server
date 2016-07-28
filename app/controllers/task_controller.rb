@@ -105,4 +105,7 @@ def town
     #fix_data = data[0]['address'].split(' ')
     render :json => data
 end
+def test01
+    render text: 'git 백지환 성공적'
+end
 end
