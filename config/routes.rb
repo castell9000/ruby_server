@@ -12,6 +12,7 @@ get 'crop/dcode' => 'crop#dcode'
 get 'crop/ycode'=> 'crop#ycode'
 get 'crop/list/:d_cd&:year&:fn_cd' => 'crop#list'
 get 'town/:sido' => 'task#town'
+get 'test' => 'task#test01'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
